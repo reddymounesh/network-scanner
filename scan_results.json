@@ -1,0 +1,17 @@
+[
+  {
+    "host": "192.168.0.193",
+    "openPorts": [
+      {
+        "port": 22,
+        "state": "OPEN",
+        "banner": "SSH-2.0-OpenSSH_9.9p2 Debian-1"
+      },
+      {
+        "port": 902,
+        "state": "OPEN",
+        "banner": "220 VMware Authentication Daemon Version 1.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , VMXARGS supported, NFCSSL supported/t, SHA256 supported"
+      }
+    ]
+  }
+]
